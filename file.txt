@@ -1,2 +1,11 @@
+#!/bin/bash
+
+snehitha=$1
+kadapa=$2
+
+echo "$snehitha"
+echo "$place"
+
+
 
 
