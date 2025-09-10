@@ -1,7 +1,9 @@
 #!/bin/bash
 
-snehitha=$2
-kadapa=$2
+name=$1
+place=$2
 
-echo "$snehitha"
-echo "$snehitha"
+echo "$name"
+echo "$place"
+
+
